@@ -8,7 +8,7 @@ A .fit file python script for COVIDUS personal health assistant. Garmin fitness 
 ## Work in progress...
 ## Authors
 
-* **Chris Papathanasiou** 
+* **Chris Papathanasiou** <developer@drmac.gr>
 
 
 ## License
