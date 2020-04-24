@@ -7,18 +7,20 @@ A .fit file python script for COVIDUS personal health assistant. Garmin fitness 
 
 ## Installation
 
-Using pip
+* Using pip
 
 The easiest way to grab fitparse is using pip,
 
 $ pip install python-fitparse
 
-From github
+* From github
 
 Navigate to https://github.com/dtcooper/python-fitparse on github and clone the latest version:
 
 $ git clone git@github.com:dtcooper/python-fitparse.git
+
 $ cd python-fitparse
+
 $ python setup.py install
 
 #work in progress...
