@@ -6,3 +6,15 @@ A .fit file python script for COVIDUS personal health assistant. Garmin fitness 
 * The SDK, code examples, and detailed documentation can be found in the ANT FIT SDK.
 
 ## Work in progress...
+## Authors
+
+* **Chris Papathanasiou** 
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* This code is initialy written for EUvsVirus Hackathlon https://euvsvirus.org/ entry
