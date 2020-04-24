@@ -1,3 +1,3 @@
 # FitParser-COVIDUS
-A .fit file python script for COVIDUS personal health assistant. Garmin and other smartwatches export their data to ANT/.fit files. These files are binary encoded. This script makes use of python-fitparse Library from dtcooper https://github.com/dtcooper/python-fitparse
+A .fit file python script for COVIDUS personal health assistant. Garmin and other smartwatches export their data to ANT/.fit files. These files are binary encoded. This script makes use of python-fitparse Library from dtcooper https://github.com/dtcooper/python-fitparse to decode and import health data to COVIDUS platform.
 ## Work in progress...
