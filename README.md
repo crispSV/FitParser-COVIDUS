@@ -9,6 +9,7 @@ A .fit file python script for COVIDUS personal health assistant. Garmin fitness 
 ## Authors
 
 * **Chris Papathanasiou** <developer@drmac.gr>
+See also the list of  [contributors](https://github.com/crispSV/FitParser-COVIDUS/blob/master/contributors) who participated in this project.
 
 
 ## License
