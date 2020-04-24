@@ -17,4 +17,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* This code is initialy written for EUvsVirus Hackathlon https://euvsvirus.org/ entry
+* This code is initialy written for EUvsVirus Hackathon https://euvsvirus.org/ entry
