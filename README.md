@@ -23,7 +23,7 @@ $ cd python-fitparse
 
 $ python setup.py install
 
-#work in progress...
+# work in progress...
 
 
 ## Authors
